@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.crysp.teemcodetheme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.crysp.teemcodetheme.MyBundle
 
 class MyApplicationService {
 
